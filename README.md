@@ -1,2 +1,4 @@
 # hello-world
-First repository
+Hello world!
+
+This is Michael writing from Boulder as I try out GitHub for the first time!
